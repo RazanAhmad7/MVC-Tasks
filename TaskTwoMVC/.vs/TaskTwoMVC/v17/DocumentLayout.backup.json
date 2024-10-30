@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Orange\\MVC\\TaskTwoMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{130893C5-75D5-4982-BB67-7D67BBE4907D}|TaskTwoMVC\\TaskTwoMVC.csproj|c:\\orange\\mvc\\tasktwomvc\\tasktwomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{130893C5-75D5-4982-BB67-7D67BBE4907D}|TaskTwoMVC\\TaskTwoMVC.csproj|solutionrelative:tasktwomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130893C5-75D5-4982-BB67-7D67BBE4907D}|TaskTwoMVC\\TaskTwoMVC.csproj|c:\\orange\\mvc\\tasktwomvc\\tasktwomvc\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{130893C5-75D5-4982-BB67-7D67BBE4907D}|TaskTwoMVC\\TaskTwoMVC.csproj|solutionrelative:tasktwomvc\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130893C5-75D5-4982-BB67-7D67BBE4907D}|TaskTwoMVC\\TaskTwoMVC.csproj|c:\\orange\\mvc\\tasktwomvc\\tasktwomvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{130893C5-75D5-4982-BB67-7D67BBE4907D}|TaskTwoMVC\\TaskTwoMVC.csproj|solutionrelative:tasktwomvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130893C5-75D5-4982-BB67-7D67BBE4907D}|TaskTwoMVC\\TaskTwoMVC.csproj|c:\\orange\\mvc\\tasktwomvc\\tasktwomvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{130893C5-75D5-4982-BB67-7D67BBE4907D}|TaskTwoMVC\\TaskTwoMVC.csproj|solutionrelative:tasktwomvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130893C5-75D5-4982-BB67-7D67BBE4907D}|TaskTwoMVC\\TaskTwoMVC.csproj|c:\\orange\\mvc\\tasktwomvc\\tasktwomvc\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130893C5-75D5-4982-BB67-7D67BBE4907D}|TaskTwoMVC\\TaskTwoMVC.csproj|solutionrelative:tasktwomvc\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130893C5-75D5-4982-BB67-7D67BBE4907D}|TaskTwoMVC\\TaskTwoMVC.csproj|c:\\orange\\mvc\\tasktwomvc\\tasktwomvc\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130893C5-75D5-4982-BB67-7D67BBE4907D}|TaskTwoMVC\\TaskTwoMVC.csproj|solutionrelative:tasktwomvc\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130893C5-75D5-4982-BB67-7D67BBE4907D}|TaskTwoMVC\\TaskTwoMVC.csproj|c:\\orange\\mvc\\tasktwomvc\\tasktwomvc\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{130893C5-75D5-4982-BB67-7D67BBE4907D}|TaskTwoMVC\\TaskTwoMVC.csproj|solutionrelative:tasktwomvc\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130893C5-75D5-4982-BB67-7D67BBE4907D}|TaskTwoMVC\\TaskTwoMVC.csproj|c:\\orange\\mvc\\tasktwomvc\\tasktwomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130893C5-75D5-4982-BB67-7D67BBE4907D}|TaskTwoMVC\\TaskTwoMVC.csproj|solutionrelative:tasktwomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130893C5-75D5-4982-BB67-7D67BBE4907D}|TaskTwoMVC\\TaskTwoMVC.csproj|c:\\orange\\mvc\\tasktwomvc\\tasktwomvc\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130893C5-75D5-4982-BB67-7D67BBE4907D}|TaskTwoMVC\\TaskTwoMVC.csproj|solutionrelative:tasktwomvc\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130893C5-75D5-4982-BB67-7D67BBE4907D}|TaskTwoMVC\\TaskTwoMVC.csproj|c:\\orange\\mvc\\tasktwomvc\\tasktwomvc\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130893C5-75D5-4982-BB67-7D67BBE4907D}|TaskTwoMVC\\TaskTwoMVC.csproj|solutionrelative:tasktwomvc\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130893C5-75D5-4982-BB67-7D67BBE4907D}|TaskTwoMVC\\TaskTwoMVC.csproj|c:\\orange\\mvc\\tasktwomvc\\tasktwomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130893C5-75D5-4982-BB67-7D67BBE4907D}|TaskTwoMVC\\TaskTwoMVC.csproj|solutionrelative:tasktwomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130893C5-75D5-4982-BB67-7D67BBE4907D}|TaskTwoMVC\\TaskTwoMVC.csproj|c:\\orange\\mvc\\tasktwomvc\\tasktwomvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{130893C5-75D5-4982-BB67-7D67BBE4907D}|TaskTwoMVC\\TaskTwoMVC.csproj|solutionrelative:tasktwomvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130893C5-75D5-4982-BB67-7D67BBE4907D}|TaskTwoMVC\\TaskTwoMVC.csproj|c:\\orange\\mvc\\tasktwomvc\\tasktwomvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130893C5-75D5-4982-BB67-7D67BBE4907D}|TaskTwoMVC\\TaskTwoMVC.csproj|solutionrelative:tasktwomvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130893C5-75D5-4982-BB67-7D67BBE4907D}|TaskTwoMVC\\TaskTwoMVC.csproj|c:\\orange\\mvc\\tasktwomvc\\tasktwomvc\\migrations\\20241029201829_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130893C5-75D5-4982-BB67-7D67BBE4907D}|TaskTwoMVC\\TaskTwoMVC.csproj|solutionrelative:tasktwomvc\\migrations\\20241029201829_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 294,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Orange\\MVC\\TaskTwoMVC\\TaskTwoMVC\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "TaskTwoMVC\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Orange\\MVC\\TaskTwoMVC\\TaskTwoMVC\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "TaskTwoMVC\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T09:48:09.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Orange\\MVC\\TaskTwoMVC\\TaskTwoMVC\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskTwoMVC\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Orange\\MVC\\TaskTwoMVC\\TaskTwoMVC\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "TaskTwoMVC\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T09:47:55.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Orange\\MVC\\TaskTwoMVC\\TaskTwoMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskTwoMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Orange\\MVC\\TaskTwoMVC\\TaskTwoMVC\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "TaskTwoMVC\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T09:42:32.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Orange\\MVC\\TaskTwoMVC\\TaskTwoMVC\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "TaskTwoMVC\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Orange\\MVC\\TaskTwoMVC\\TaskTwoMVC\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "TaskTwoMVC\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T21:23:22.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Orange\\MVC\\TaskTwoMVC\\TaskTwoMVC\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskTwoMVC\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Orange\\MVC\\TaskTwoMVC\\TaskTwoMVC\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "TaskTwoMVC\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T20:59:50.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Orange\\MVC\\TaskTwoMVC\\TaskTwoMVC\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "TaskTwoMVC\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Orange\\MVC\\TaskTwoMVC\\TaskTwoMVC\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "TaskTwoMVC\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T20:57:52.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Orange\\MVC\\TaskTwoMVC\\TaskTwoMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TaskTwoMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Orange\\MVC\\TaskTwoMVC\\TaskTwoMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TaskTwoMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:49:39.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Orange\\MVC\\TaskTwoMVC\\TaskTwoMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskTwoMVC\\appsettings.json",
+              "ToolTip": "C:\\Orange\\MVC\\TaskTwoMVC\\TaskTwoMVC\\appsettings.json",
+              "RelativeToolTip": "TaskTwoMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T19:52:46.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Orange\\MVC\\TaskTwoMVC\\TaskTwoMVC\\Program.cs",
+              "RelativeDocumentMoniker": "TaskTwoMVC\\Program.cs",
+              "ToolTip": "C:\\Orange\\MVC\\TaskTwoMVC\\TaskTwoMVC\\Program.cs",
+              "RelativeToolTip": "TaskTwoMVC\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:52:41.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Orange\\MVC\\TaskTwoMVC\\TaskTwoMVC\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "TaskTwoMVC\\Data\\MyDbContext.cs",
+              "ToolTip": "C:\\Orange\\MVC\\TaskTwoMVC\\TaskTwoMVC\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "TaskTwoMVC\\Data\\MyDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:46:13.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241029201829_initial.cs",
+              "DocumentMoniker": "C:\\Orange\\MVC\\TaskTwoMVC\\TaskTwoMVC\\Migrations\\20241029201829_initial.cs",
+              "RelativeDocumentMoniker": "TaskTwoMVC\\Migrations\\20241029201829_initial.cs",
+              "ToolTip": "C:\\Orange\\MVC\\TaskTwoMVC\\TaskTwoMVC\\Migrations\\20241029201829_initial.cs",
+              "RelativeToolTip": "TaskTwoMVC\\Migrations\\20241029201829_initial.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T20:18:29.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Orange\\MVC\\TaskTwoMVC\\TaskTwoMVC\\Models\\Categories.cs",
+              "RelativeDocumentMoniker": "TaskTwoMVC\\Models\\Categories.cs",
+              "ToolTip": "C:\\Orange\\MVC\\TaskTwoMVC\\TaskTwoMVC\\Models\\Categories.cs",
+              "RelativeToolTip": "TaskTwoMVC\\Models\\Categories.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:29:32.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Orange\\MVC\\TaskTwoMVC\\TaskTwoMVC\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "TaskTwoMVC\\Models\\Products.cs",
+              "ToolTip": "C:\\Orange\\MVC\\TaskTwoMVC\\TaskTwoMVC\\Models\\Products.cs",
+              "RelativeToolTip": "TaskTwoMVC\\Models\\Products.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:29:08.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Orange\\MVC\\TaskTwoMVC\\TaskTwoMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "TaskTwoMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Orange\\MVC\\TaskTwoMVC\\TaskTwoMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "TaskTwoMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:29:39.585Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 106,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

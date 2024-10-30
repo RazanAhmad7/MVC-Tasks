@@ -1,0 +1,26 @@
+﻿@model List<TaskTwoMVC.Models.Categories> 
+
+<h2>All Categories</h2>
+<table class="table table-dotted"> 
+	<thead>
+		<tr>
+			<th>Category name</th>
+			<th>Category Image</th>
+		</tr>
+	</thead>
+	
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>
+					@item.CategoryName
+				</td>
+				<td>
+					<img src="@item.CategoryImagePath" width="100px" height="100px"/>
+				</td>
+				<td><a asp-action="Delete" asp-route-id="@item.CategoryId" class="btn btn-danger"> Delete </a></td>
+			</tr>
+		}
+	</tbody>
+</table>
